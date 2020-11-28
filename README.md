@@ -1,4 +1,4 @@
-# BOT AQIP
+# BOT OMEGA
 BOT WHATSAPP TERMUX ONLY BY Muhammad Aqip
 
 ### Alat dan Bahan
